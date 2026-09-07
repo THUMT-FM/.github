@@ -1,5 +1,3 @@
-# Horizon Intelligence Lab
+# THUMT Foundation Model Group
 
-> Charting the Uncharted. Bound for the Horizon.
-
-We study intelligent systems that can reason, act, adapt, and evolve in complex real-world environments.
+We study foundation models, with an emphasis on advancing their capabilities, adaptability, and reliability. We welcome academic exchange and research collaboration.
